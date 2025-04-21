@@ -1,0 +1,51 @@
+.box
+{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+}
+#box1
+{
+   background-color: #735557; 
+   left: 0px;
+   z-index: 3;
+  
+ 
+}
+#box2
+{
+    background-color: #97866A;
+    left: 80px;
+    top: 25px;
+    z-index: 1;
+ 
+}
+
+#box3
+{
+    background-color: #D29F80;
+    left:160px ;
+    top: 50px;
+    z-index: 2;
+}
+
+.container
+{
+    width: 500px;
+    height: 400px;
+    background-color: #D29F80;
+    position: relative;
+    left: 520px;
+    top: 200px;
+}
+
+.shape
+{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: #97866A;
+    border-radius: 0px 0px 100px 100px;
+    left: 480px;
+    z-index: -1;
+}

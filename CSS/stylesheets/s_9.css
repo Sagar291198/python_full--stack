@@ -1,0 +1,84 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Oswald:wght@200..700&family=Winky+Rough:ital,wght@0,300..900;1,300..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,100..900&family=Oswald:wght@200..700&family=Special+Gothic+Expanded+One&family=Winky+Rough:ital,wght@0,300..900;1,300..900&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Inter:opsz,wght@14..32,427&family=Oswald:wght@200..700&family=Roboto:ital,wdth,wght@1,84.6,639&family=Special+Gothic+Expanded+One&family=Winky+Rough:wght@459&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Inter:opsz,wght@14..32,427&family=Oswald:wght@200..700&family=Playwrite+MX+Guides&family=Roboto:ital,wdth,wght@1,84.6,639&family=Special+Gothic+Expanded+One&family=Winky+Rough:wght@459&display=swap');
+.box
+{
+    display: inline-block;
+    height: 300px;
+    width: 200px;
+    background-color: rgb(226, 193, 153);
+}
+
+
+#box1
+{
+    text-align: left;
+    text-decoration: 5px underline dashed red;
+    color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+#box2
+{
+    text-align: right;
+    text-decoration: 5px overline dotted red;
+
+}
+
+
+#box3
+{
+    text-align: center;
+    text-decoration:2px line-through blue  ;
+}
+
+
+
+#box4
+{
+    text-align: justify;
+}
+
+
+
+.winky-rough-font {
+    font-family: "Winky Rough", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200px;
+    font-style: normal;
+  }
+
+
+  
+.winky-rough-textfont {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+  }
+
+  .bungee-spice-regular {
+    font-family: "Bungee Spice", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+  .playwrite-mx-guides-regular {
+    font-family: "Playwrite MX Guides", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+  .para
+  {
+    background-color: aqua;
+  }

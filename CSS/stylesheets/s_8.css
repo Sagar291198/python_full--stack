@@ -1,0 +1,21 @@
+body{
+    background-image: url(../images/cartoon.png);
+    background-repeat: no-repeat;
+    background-size: 40%;
+    background-position: top center;
+    background-attachment: fixed;
+    
+}
+
+.box
+{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    /* visible Hidden */
+    overflow: auto;
+    position: sticky;
+    top: 50px;
+    left: 50px;  
+
+}

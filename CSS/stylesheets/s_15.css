@@ -1,0 +1,19 @@
+#im1,#im2
+{
+    float: left;
+}
+
+#im2
+{
+    clear: left;
+}
+
+#im3,#im4
+{
+   float: right;
+}
+
+#im4
+{
+    clear: right;
+}

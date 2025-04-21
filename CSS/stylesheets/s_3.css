@@ -1,0 +1,31 @@
+.para
+{
+    color: #f96d00;
+}
+
+body{
+    background-color: #393e46;
+}
+
+.box
+{
+    color:#393e46;
+    width: 50%;
+    height: 200px;
+    background-color:#f2f2f2;
+    padding: 100px;
+    border: 20px double  #f96d00;
+    margin: 50px;
+
+}
+
+#button
+{
+    color: #f96d00;
+    text-decoration: none;
+    background-color:#f2f2f2;
+    /* trbl   t(lr)b  (tb)(rl)  */
+    padding: 10px 6px 10px 6px;
+    border: 4px solid #f96d00;
+
+}

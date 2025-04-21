@@ -1,0 +1,60 @@
+.container
+{
+}
+
+.box
+{
+    height: 200px;
+    width: 200px;
+    background-color:#8E7DBE;
+    display: inline-block;
+    margin: 20px;
+    background-image: url(../images/photo.jpg);
+    background-size: cover;
+    box-shadow: 10px 10px 10px gainsboro;
+
+}
+
+#box1
+{
+    border-radius: 30px;
+}
+
+#box2
+{
+    border-radius: 30px 80px;
+}
+
+#box3
+{
+    border-radius: 30px 50px 60px;
+}
+
+#box4
+{
+    border-radius: 100px 100px 0px 0px;
+}
+
+#box5
+{
+    border-radius: 0px 0px 100px 100px;
+}
+
+#box6
+{
+    border-radius: 0px 0px 100px 0px;
+
+}
+
+#box7
+{
+    border-radius: 0px 100px 100px 0px;
+
+}
+
+
+#box8
+{
+    border-radius: 0px 100px 100px 100px;
+
+}

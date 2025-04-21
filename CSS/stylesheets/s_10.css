@@ -1,0 +1,37 @@
+.para
+{
+    font-size: 30px;
+    
+}
+
+.para::first-letter
+{
+    color: red;
+    font-size: 60px;
+}
+
+.para::first-line
+{
+    text-decoration: 2px overline goldenrod;
+}
+/* Descendant selector : space */
+/* Child selector > */
+.container>h6
+{
+    background-color: aqua;
+}
+
+.container + h2
+{
+    color: rgb(210, 185, 233);
+}
+
+.container > :nth-child(odd)
+{
+     color: chocolate;
+}
+
+.container > :first-child
+{
+    background-color: red;
+}

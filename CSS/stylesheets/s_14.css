@@ -1,0 +1,22 @@
+@media screen and (max-width:1200px) {
+
+    body {
+        background-color: #00ffff;
+    }
+    .cartoon-img {
+        width: 500px;
+    }
+
+}
+
+
+@media screen and (max-width:600px) {
+    body {
+        background-color: rgb(32, 41, 41);
+    }
+    .cartoon-img {
+        /* display: none; */
+        width: 200px;
+    }
+
+}
